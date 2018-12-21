@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "20682897303",
+    "firebase_url": "https://myoggulatihangabungan1.firebaseio.com",
+    "project_id": "myoggulatihangabungan1",
+    "storage_bucket": "myoggulatihangabungan1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20682897303:android:95d25f0ee6793168",
+        "android_client_info": {
+          "package_name": "com.example.yoggy.myoggu_latihan_gabungan1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20682897303-ndesh07ft74mkr546kjkkbkamlq6q6rj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yoggy.myoggu_latihan_gabungan1",
+            "certificate_hash": "61c2250cdb176c7bcec9c4a2b0545ec0bf57cf10"
+          }
+        },
+        {
+          "client_id": "20682897303-gdnbodgntib6ibv6cj8cq31gqcsdf215.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfgT_91ie5LVPcsOhywNytZCURKu-sY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20682897303-gdnbodgntib6ibv6cj8cq31gqcsdf215.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
